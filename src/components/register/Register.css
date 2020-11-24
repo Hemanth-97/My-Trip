@@ -1,0 +1,10 @@
+.reg{
+    padding: 50px;
+}
+
+input[type=submit]{
+    background-color:seashell ;
+}
+.register{
+    background-color: skyblue;
+}
